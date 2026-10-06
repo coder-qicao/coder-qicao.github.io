@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://coder-qicao.github.io
+Sitemap: https://coder-qicao.github.io/sitemap.xml
